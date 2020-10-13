@@ -1,0 +1,42 @@
+.isari{float: right;
+height: 151.5px;
+width: 201.2px;
+margin: 50px 56px 63.5px 65.4px;}
+.clear{clear: both;}
+.menu{font-size: 48px;
+font-style: bold;
+color: white;
+display: inline-block;
+margin-right: 20px;
+text-transform: uppercase;
+}
+.menu_box{width: 786px;
+height: 64px;
+float: right;}
+.mtavari{background-color: #56836F;}
+.text1{float: left;}
+.box1{margin-bottom: 80px;
+	height: 356px;
+	padding: 17.7px 14.5px 16.9px 39px;
+	margin-right: 45.5px;
+	display: inline-block;
+	vertical-align: top;
+	width: 617px;
+background-color: #FCEE21;}
+.poto{margin-left: 20px;
+	margin-bottom: 20px;
+	height: 118px;
+float: right;}
+.poto2{margin: 0px 26px 18px 0;
+	height: 118px;
+float: left;}
+.text2{margin-top: 16px;}
+.box2{
+	vertical-align: top;
+	margin-bottom: 80px;
+	padding:17.7px 36.9px 16.9px 26px;
+	margin-right: 45.5px;
+	display: inline-block;
+	width: 617px;
+	height: 356px;
+background-color: #FCEE21;}
